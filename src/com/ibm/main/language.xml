@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Chosen_Language>
+    <languages languageid="1" language="English (US)" isoletter="EN" family="GERMANIC" localeid="1033" localeName="en-us" UISupported="1" TGSupported="1" />
+    <languages languageid="6" language="Arabic" isoletter="AR" family="SEMITIC" localeid="1025" localeName="ar-SA" UISupported="1" TGSupported="1" />
+    <languages languageid="9" language="Azerbaijani" isoletter="AZ" family="TURKIC/ALTAIC" localeid="1068" localeName="az" UISupported="0" TGSupported="1" />
+    <languages languageid="12" language="Bulgarian" isoletter="BG" family="SLAVIC" localeid="1026" localeName="bg-BG" UISupported="0" TGSupported="1" />
+    <languages languageid="20" language="Czech" isoletter="CS" family="SLAVIC" localeid="1029" localeName="cs" UISupported="0" TGSupported="1" />
+    <languages languageid="145" language="English UK Government" isoletter="GG" family="INTERNATIONAL" localeid="12057" localeName="GG-GB" UISupported="1" TGSupported="1" />
+</Chosen_Language>
